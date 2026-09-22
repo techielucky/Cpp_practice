@@ -3,6 +3,7 @@ using namespace std;
 
 void main{
     cout<<"hello world..././..";
+    cout<<"bhb";
     int a;
     cout<<a;
     int b;
