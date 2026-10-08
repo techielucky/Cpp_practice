@@ -10,7 +10,7 @@ void main{
     }
 
    if (number < 0) {
-        cout << "The number is Negative....!" << endl;
+        cout << "The number is Negative..!" << endl;
     } else {
         cout << "The number is not Negative..!" << endl;
     }
